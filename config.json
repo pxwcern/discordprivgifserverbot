@@ -1,0 +1,15 @@
+{
+    "prefix": "b!",
+    "whitelisted_users": [],
+    "admin_role_id": "",
+    "ticket_category_id": "",
+    "giveaway_manager_role_id": "",
+    "supporter_role_id": "1475140723262357534",
+    "promotion_link": ".gg/gifclub",
+    "colors": {
+        "primary": "#00A3FF",
+        "success": "#38A169",
+        "error": "#E53E3E",
+        "warning": "#DD6B20"
+    }
+}
